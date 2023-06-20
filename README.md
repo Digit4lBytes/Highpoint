@@ -7,7 +7,7 @@ Highpoint is a tool for Google Dork Hacking. All Google dorks in this tool can b
 
 
 # Dependecies
-Python 3
+Python 3 </br>
 Selenium
 Selenium Firefox Webdriver
 Usage
